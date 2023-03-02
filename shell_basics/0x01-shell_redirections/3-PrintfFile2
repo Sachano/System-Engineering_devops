@@ -1,0 +1,3 @@
+#!/bin/bash
+cat etc/passwd_File.txt
+cat etc/hots.txt

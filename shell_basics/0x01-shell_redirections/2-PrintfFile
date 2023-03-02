@@ -1,0 +1,6 @@
+#!/bin/bash
+mkdir -p /etc
+touch etc/passwd_File.txt hots.txt
+echo "Porfavor." >> etc/hots.txt
+echo "Saquenme de LatinoAmerica" >> etc/passwd_File.txt
+cat etc/passwd_File.txt

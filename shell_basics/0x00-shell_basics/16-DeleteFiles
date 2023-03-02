@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir -p c/is/fun
+rm -r c
